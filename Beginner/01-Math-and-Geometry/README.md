@@ -43,7 +43,7 @@ Perimeter = Side A + Side B + Side C
 
 *Part of my Python learning journey.*
 
----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
 
 ### 02. Trapezoid Area and Perimeter Calculator
 
@@ -72,7 +72,7 @@ Perimeter = Side A + Side B + Side C + Side D
 
 **File:** `02-Trapezoid-Calculator.py`
 
-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
 03. Square and Rectangular Pyramid Volume Calculator
 
 A beginner-level Python program that calculates the volume of a square or rectangular pyramid using the dimensions provided by the user.
@@ -109,4 +109,32 @@ Basic Mathematical Operations
 
 File: 03-Pyramid-Volume-Calculator.py
 
------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+### 04. Square Area and Perimeter Calculator
+
+A beginner-level Python program that calculates the area and perimeter of a square using the side length provided by the user.
+
+**Features:**
+- Takes the side length of the square as input.
+- Calculates the area of the square.
+- Calculates the perimeter of the square.
+- Displays the results in the terminal.
+
+**Mathematical Formulas:**
+
+Area = Side × Side
+
+Perimeter = 4 × Side
+
+**Python Concepts Used:**
+- `print()`
+- `input()`
+- Variables
+- `float()`
+- Exponentiation Operator (`**`)
+- Arithmetic Operators
+- Basic Mathematical Operations
+
+**File:** `04-Square-Calculator.py`
+
+---------------------------------------------------------------------------------------------------
