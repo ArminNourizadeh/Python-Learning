@@ -39,6 +39,39 @@ Perimeter = Side A + Side B + Side C
 - **Difficulty Level:** Beginner
 - **Category:** Math and Geometry
 
+- 
+
 ---
 
 *Part of my Python learning journey.*
+
+---------------------------------------------------------------------------------
+
+### 02. Trapezoid Area and Perimeter Calculator
+
+A beginner-level Python program that calculates the area and perimeter of a trapezoid using the user's input.
+
+**Features:**
+- Takes all four side lengths as input.
+- Takes the height of the trapezoid as input.
+- Calculates the area of the trapezoid.
+- Calculates the perimeter of the trapezoid.
+- Displays the results in the terminal.
+
+**Mathematical Formulas:**
+
+Area = ((Base 1 + Base 2) × Height) / 2
+
+Perimeter = Side A + Side B + Side C + Side D
+
+**Python Concepts Used:**
+- `print()`
+- `input()`
+- Variables
+- `float()`
+- Arithmetic Operators
+- Basic Mathematical Operations
+
+**File:** `02-Trapezoid-Calculator.py`
+
+---
