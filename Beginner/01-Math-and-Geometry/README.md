@@ -138,3 +138,31 @@ Perimeter = 4 × Side
 **File:** `04-Square-Calculator.py`
 
 ---------------------------------------------------------------------------------------------------
+### 05. Sphere Volume and Surface Area Calculator
+
+A beginner-level Python program that calculates the volume and surface area of a sphere using the radius provided by the user.
+
+**Features:**
+- Takes the radius of the sphere as input.
+- Calculates the volume of the sphere.
+- Calculates the surface area of the sphere.
+- Displays both results in the terminal.
+
+**Mathematical Formulas:**
+
+Volume = (4 × π × Radius³) / 3
+
+Surface Area = 4 × π × Radius²
+
+**Python Concepts Used:**
+- `print()`
+- `input()`
+- Variables
+- `float()`
+- Exponentiation Operator (`**`)
+- Arithmetic Operators
+- Basic Mathematical Operations
+
+**File:** `05-Sphere-Calculator.py`
+
+--------------------------------------------------------------------------------------------------
