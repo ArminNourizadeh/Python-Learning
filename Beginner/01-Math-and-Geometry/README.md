@@ -39,9 +39,7 @@ Perimeter = Side A + Side B + Side C
 - **Difficulty Level:** Beginner
 - **Category:** Math and Geometry
 
-- 
-
----
+--
 
 *Part of my Python learning journey.*
 
@@ -74,4 +72,41 @@ Perimeter = Side A + Side B + Side C + Side D
 
 **File:** `02-Trapezoid-Calculator.py`
 
----
+------------------------------------------------------------------------------------------------
+03. Square and Rectangular Pyramid Volume Calculator
+
+A beginner-level Python program that calculates the volume of a square or rectangular pyramid using the dimensions provided by the user.
+
+Features:
+
+Takes the length of the base as input.
+
+Takes the width of the base as input.
+
+Takes the vertical height of the pyramid as input.
+
+Calculates the pyramid's volume.
+
+Displays the result in the terminal.
+
+Mathematical Formula:
+
+Volume = (Length × Width × Height) / 3
+
+Python Concepts Used:
+
+print()
+
+input()
+
+Variables
+
+float()
+
+Arithmetic Operators
+
+Basic Mathematical Operations
+
+File: 03-Pyramid-Volume-Calculator.py
+
+-----------------------------------------------------------------------------------------------------
