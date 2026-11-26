@@ -312,3 +312,31 @@ Surface Area = π × Radius × (Radius + Slant Height)
 **File:** `10-Cone-Calculator.py`
 
 -----------------------------------------------------------------------------------
+### 11. Circle Area and Circumference Calculator
+
+A beginner-level Python program that calculates the area and circumference of a circle using the radius provided by the user.
+
+**Features:**
+- Takes the radius of the circle as input.
+- Calculates the area of the circle.
+- Calculates the circumference of the circle.
+- Displays both results in the terminal.
+
+**Mathematical Formulas:**
+
+Area = π × Radius²
+
+Circumference = 2 × π × Radius
+
+**Python Concepts Used:**
+- `print()`
+- `input()`
+- Variables
+- `float()`
+- Exponentiation Operator (`**`)
+- Arithmetic Operators
+- Basic Mathematical Operations
+
+**File:** `11-Circle-Calculator.py`
+
+----------------------------------------------------------------------------------
