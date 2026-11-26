@@ -195,3 +195,31 @@ Surface Area = 2 × (Length × Width + Length × Height + Width × Height)
 **File:** `06-Rectangular-Prism-Calculator.py`
 
 --------------------------------------------------------------------------------------------------
+### 07. Rectangle Area and Perimeter Calculator
+
+A beginner-level Python program that calculates the area and perimeter of a rectangle using the dimensions provided by the user.
+
+**Features:**
+- Takes the length of the rectangle as input.
+- Takes the width of the rectangle as input.
+- Calculates the area of the rectangle.
+- Calculates the perimeter of the rectangle.
+- Displays both results in the terminal.
+
+**Mathematical Formulas:**
+
+Area = Length × Width
+
+Perimeter = 2 × (Length + Width)
+
+**Python Concepts Used:**
+- `print()`
+- `input()`
+- Variables
+- `float()`
+- Arithmetic Operators
+- Basic Mathematical Operations
+
+**File:** `07-Rectangle-Calculator.py`
+
+--------------------------------------------------------------------------------------------
