@@ -223,3 +223,32 @@ Perimeter = 2 × (Length + Width)
 **File:** `07-Rectangle-Calculator.py`
 
 --------------------------------------------------------------------------------------------
+### 08. Cylinder Volume and Surface Area Calculator
+
+A beginner-level Python program that calculates the volume and total surface area of a cylinder using the radius and height provided by the user.
+
+**Features:**
+- Takes the radius of the cylinder as input.
+- Takes the height of the cylinder as input.
+- Calculates the volume of the cylinder.
+- Calculates the total surface area of the cylinder.
+- Displays both results in the terminal.
+
+**Mathematical Formulas:**
+
+Volume = π × Radius² × Height
+
+Surface Area = 2 × π × Radius × Height + 2 × π × Radius²
+
+**Python Concepts Used:**
+- `print()`
+- `input()`
+- Variables
+- `float()`
+- Exponentiation Operator (`**`)
+- Arithmetic Operators
+- Basic Mathematical Operations
+
+**File:** `08-Cylinder-Calculator.py`
+
+------------------------------------------------------------------------------------------
