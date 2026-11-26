@@ -252,3 +252,31 @@ Surface Area = 2 × π × Radius × Height + 2 × π × Radius²
 **File:** `08-Cylinder-Calculator.py`
 
 ------------------------------------------------------------------------------------------
+### 09. Cube Volume and Surface Area Calculator
+
+A beginner-level Python program that calculates the volume and total surface area of a cube using the side length provided by the user.
+
+**Features:**
+- Takes the side length of the cube as input.
+- Calculates the volume of the cube.
+- Calculates the total surface area of the cube.
+- Displays both results in the terminal.
+
+**Mathematical Formulas:**
+
+Volume = Side³
+
+Surface Area = 6 × Side²
+
+**Python Concepts Used:**
+- `print()`
+- `input()`
+- Variables
+- `float()`
+- Exponentiation Operator (`**`)
+- Arithmetic Operators
+- Basic Mathematical Operations
+
+**File:** `09-Cube-Calculator.py`
+
+--------------------------------------------------------------------------------------
