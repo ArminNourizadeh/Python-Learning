@@ -166,3 +166,32 @@ Surface Area = 4 × π × Radius²
 **File:** `05-Sphere-Calculator.py`
 
 --------------------------------------------------------------------------------------------------
+### 06. Rectangular Prism Volume and Surface Area Calculator
+
+A beginner-level Python program that calculates the volume and total surface area of a rectangular prism using the dimensions provided by the user.
+
+**Features:**
+- Takes the length of the rectangular prism as input.
+- Takes the width of the rectangular prism as input.
+- Takes the height of the rectangular prism as input.
+- Calculates the volume.
+- Calculates the total surface area.
+- Displays both results in the terminal.
+
+**Mathematical Formulas:**
+
+Volume = Length × Width × Height
+
+Surface Area = 2 × (Length × Width + Length × Height + Width × Height)
+
+**Python Concepts Used:**
+- `print()`
+- `input()`
+- Variables
+- `float()`
+- Arithmetic Operators
+- Basic Mathematical Operations
+
+**File:** `06-Rectangular-Prism-Calculator.py`
+
+--------------------------------------------------------------------------------------------------
