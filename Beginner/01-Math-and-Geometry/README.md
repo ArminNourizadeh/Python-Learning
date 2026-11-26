@@ -2,6 +2,14 @@
 
 This folder contains beginner-level Python projects focused on mathematical calculations and geometric shapes.
 
+**Project Information:**
+- **Programming Language:** Python
+- **Difficulty Level:** Beginner
+- **Category:** Math and Geometry
+- **Number of Projects:** 11
+
+---
+
 ## Projects
 
 ### 01. Triangle Area and Perimeter Calculator
@@ -17,9 +25,8 @@ A beginner-level Python program that calculates the area and perimeter of a tria
 
 **Mathematical Formulas:**
 
-Area = (Base × Height) / 2
-
-Perimeter = Side A + Side B + Side C
+- Area = (Base × Height) / 2
+- Perimeter = Side A + Side B + Side C
 
 **Python Concepts Used:**
 - `print()`
@@ -32,18 +39,6 @@ Perimeter = Side A + Side B + Side C
 **File:** `01-Triangle-Calculator.py`
 
 ---
-
-## Project Information
-
-- **Programming Language:** Python
-- **Difficulty Level:** Beginner
-- **Category:** Math and Geometry
-
---
-
-*Part of my Python learning journey.*
-
------------------------------------------------------------------------------------------------
 
 ### 02. Trapezoid Area and Perimeter Calculator
 
@@ -58,9 +53,8 @@ A beginner-level Python program that calculates the area and perimeter of a trap
 
 **Mathematical Formulas:**
 
-Area = ((Base 1 + Base 2) × Height) / 2
-
-Perimeter = Side A + Side B + Side C + Side D
+- Area = ((Base 1 + Base 2) × Height) / 2
+- Perimeter = Side A + Side B + Side C + Side D
 
 **Python Concepts Used:**
 - `print()`
@@ -72,44 +66,35 @@ Perimeter = Side A + Side B + Side C + Side D
 
 **File:** `02-Trapezoid-Calculator.py`
 
--------------------------------------------------------------------------------------------------
-03. Square and Rectangular Pyramid Volume Calculator
+---
+
+### 03. Square and Rectangular Pyramid Volume Calculator
 
 A beginner-level Python program that calculates the volume of a square or rectangular pyramid using the dimensions provided by the user.
 
-Features:
+**Features:**
+- Takes the length of the base as input.
+- Takes the width of the base as input.
+- Takes the vertical height of the pyramid as input.
+- Calculates the pyramid's volume.
+- Displays the result in the terminal.
 
-Takes the length of the base as input.
+**Mathematical Formula:**
 
-Takes the width of the base as input.
+- Volume = (Length × Width × Height) / 3
 
-Takes the vertical height of the pyramid as input.
+**Python Concepts Used:**
+- `print()`
+- `input()`
+- Variables
+- `float()`
+- Arithmetic Operators
+- Basic Mathematical Operations
 
-Calculates the pyramid's volume.
+**File:** `03-Pyramid-Volume-Calculator.py`
 
-Displays the result in the terminal.
+---
 
-Mathematical Formula:
-
-Volume = (Length × Width × Height) / 3
-
-Python Concepts Used:
-
-print()
-
-input()
-
-Variables
-
-float()
-
-Arithmetic Operators
-
-Basic Mathematical Operations
-
-File: 03-Pyramid-Volume-Calculator.py
-
----------------------------------------------------------------------------------------------------
 ### 04. Square Area and Perimeter Calculator
 
 A beginner-level Python program that calculates the area and perimeter of a square using the side length provided by the user.
@@ -122,9 +107,8 @@ A beginner-level Python program that calculates the area and perimeter of a squa
 
 **Mathematical Formulas:**
 
-Area = Side × Side
-
-Perimeter = 4 × Side
+- Area = Side × Side
+- Perimeter = 4 × Side
 
 **Python Concepts Used:**
 - `print()`
@@ -137,7 +121,8 @@ Perimeter = 4 × Side
 
 **File:** `04-Square-Calculator.py`
 
----------------------------------------------------------------------------------------------------
+---
+
 ### 05. Sphere Volume and Surface Area Calculator
 
 A beginner-level Python program that calculates the volume and surface area of a sphere using the radius provided by the user.
@@ -150,9 +135,8 @@ A beginner-level Python program that calculates the volume and surface area of a
 
 **Mathematical Formulas:**
 
-Volume = (4 × π × Radius³) / 3
-
-Surface Area = 4 × π × Radius²
+- Volume = (4 × π × Radius³) / 3
+- Surface Area = 4 × π × Radius²
 
 **Python Concepts Used:**
 - `print()`
@@ -165,7 +149,8 @@ Surface Area = 4 × π × Radius²
 
 **File:** `05-Sphere-Calculator.py`
 
---------------------------------------------------------------------------------------------------
+---
+
 ### 06. Rectangular Prism Volume and Surface Area Calculator
 
 A beginner-level Python program that calculates the volume and total surface area of a rectangular prism using the dimensions provided by the user.
@@ -180,9 +165,8 @@ A beginner-level Python program that calculates the volume and total surface are
 
 **Mathematical Formulas:**
 
-Volume = Length × Width × Height
-
-Surface Area = 2 × (Length × Width + Length × Height + Width × Height)
+- Volume = Length × Width × Height
+- Surface Area = 2 × (Length × Width + Length × Height + Width × Height)
 
 **Python Concepts Used:**
 - `print()`
@@ -194,7 +178,8 @@ Surface Area = 2 × (Length × Width + Length × Height + Width × Height)
 
 **File:** `06-Rectangular-Prism-Calculator.py`
 
---------------------------------------------------------------------------------------------------
+---
+
 ### 07. Rectangle Area and Perimeter Calculator
 
 A beginner-level Python program that calculates the area and perimeter of a rectangle using the dimensions provided by the user.
@@ -208,9 +193,8 @@ A beginner-level Python program that calculates the area and perimeter of a rect
 
 **Mathematical Formulas:**
 
-Area = Length × Width
-
-Perimeter = 2 × (Length + Width)
+- Area = Length × Width
+- Perimeter = 2 × (Length + Width)
 
 **Python Concepts Used:**
 - `print()`
@@ -222,7 +206,8 @@ Perimeter = 2 × (Length + Width)
 
 **File:** `07-Rectangle-Calculator.py`
 
---------------------------------------------------------------------------------------------
+---
+
 ### 08. Cylinder Volume and Surface Area Calculator
 
 A beginner-level Python program that calculates the volume and total surface area of a cylinder using the radius and height provided by the user.
@@ -236,9 +221,8 @@ A beginner-level Python program that calculates the volume and total surface are
 
 **Mathematical Formulas:**
 
-Volume = π × Radius² × Height
-
-Surface Area = 2 × π × Radius × Height + 2 × π × Radius²
+- Volume = π × Radius² × Height
+- Surface Area = 2 × π × Radius × Height + 2 × π × Radius²
 
 **Python Concepts Used:**
 - `print()`
@@ -251,7 +235,8 @@ Surface Area = 2 × π × Radius × Height + 2 × π × Radius²
 
 **File:** `08-Cylinder-Calculator.py`
 
-------------------------------------------------------------------------------------------
+---
+
 ### 09. Cube Volume and Surface Area Calculator
 
 A beginner-level Python program that calculates the volume and total surface area of a cube using the side length provided by the user.
@@ -264,9 +249,8 @@ A beginner-level Python program that calculates the volume and total surface are
 
 **Mathematical Formulas:**
 
-Volume = Side³
-
-Surface Area = 6 × Side²
+- Volume = Side³
+- Surface Area = 6 × Side²
 
 **Python Concepts Used:**
 - `print()`
@@ -279,7 +263,8 @@ Surface Area = 6 × Side²
 
 **File:** `09-Cube-Calculator.py`
 
---------------------------------------------------------------------------------------
+---
+
 ### 10. Cone Volume and Surface Area Calculator
 
 A beginner-level Python program that calculates the volume and total surface area of a cone using the radius and vertical height provided by the user.
@@ -294,11 +279,9 @@ A beginner-level Python program that calculates the volume and total surface are
 
 **Mathematical Formulas:**
 
-Slant Height = √(Radius² + Height²)
-
-Volume = (π × Radius² × Height) / 3
-
-Surface Area = π × Radius × (Radius + Slant Height)
+- Slant Height = √(Radius² + Height²)
+- Volume = (π × Radius² × Height) / 3
+- Surface Area = π × Radius × (Radius + Slant Height)
 
 **Python Concepts Used:**
 - `print()`
@@ -311,7 +294,8 @@ Surface Area = π × Radius × (Radius + Slant Height)
 
 **File:** `10-Cone-Calculator.py`
 
------------------------------------------------------------------------------------
+---
+
 ### 11. Circle Area and Circumference Calculator
 
 A beginner-level Python program that calculates the area and circumference of a circle using the radius provided by the user.
@@ -324,9 +308,8 @@ A beginner-level Python program that calculates the area and circumference of a 
 
 **Mathematical Formulas:**
 
-Area = π × Radius²
-
-Circumference = 2 × π × Radius
+- Area = π × Radius²
+- Circumference = 2 × π × Radius
 
 **Python Concepts Used:**
 - `print()`
@@ -339,4 +322,10 @@ Circumference = 2 × π × Radius
 
 **File:** `11-Circle-Calculator.py`
 
-----------------------------------------------------------------------------------
+---
+
+## About This Repository
+
+Part of my Python learning journey.
+
+More projects will be added as I continue learning Python.
