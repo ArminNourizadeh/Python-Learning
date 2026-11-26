@@ -280,3 +280,35 @@ Surface Area = 6 × Side²
 **File:** `09-Cube-Calculator.py`
 
 --------------------------------------------------------------------------------------
+### 10. Cone Volume and Surface Area Calculator
+
+A beginner-level Python program that calculates the volume and total surface area of a cone using the radius and vertical height provided by the user.
+
+**Features:**
+- Takes the radius of the cone as input.
+- Takes the vertical height of the cone as input.
+- Calculates the slant height.
+- Calculates the volume of the cone.
+- Calculates the total surface area of the cone.
+- Displays the results in the terminal.
+
+**Mathematical Formulas:**
+
+Slant Height = √(Radius² + Height²)
+
+Volume = (π × Radius² × Height) / 3
+
+Surface Area = π × Radius × (Radius + Slant Height)
+
+**Python Concepts Used:**
+- `print()`
+- `input()`
+- Variables
+- `float()`
+- Exponentiation Operator (`**`)
+- Arithmetic Operators
+- Basic Mathematical Operations
+
+**File:** `10-Cone-Calculator.py`
+
+-----------------------------------------------------------------------------------
